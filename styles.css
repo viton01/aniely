@@ -1,0 +1,50 @@
+body {
+    background-color: #f8e6f3;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.5em;
+    color: #d5006d;
+    margin: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    overflow: hidden;
+    border: 1px #f8e6f3;
+    
+}
+
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.5em;
+    color: #d5006d;
+    margin: 20px 0;
+}
+
+p {
+    font-family: 'Great Vibes';
+    font-size: 1.5em;
+    margin: 20px 10px;
+    padding: 0 5%;
+}
+
+.swiper {
+    width: 350px;
+    height: 400px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+}
